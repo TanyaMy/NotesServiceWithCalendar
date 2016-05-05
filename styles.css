@@ -1,0 +1,88 @@
+body, html {
+margin:0px;
+padding:0px;
+ background-image: url(images/note.png);
+}
+#all {
+width:650px;
+height: 300px;
+margin:0 auto;
+}
+
+
+#register{
+width:100%;
+}
+
+.table{
+    margin-top: 75px;
+}
+
+#login{
+width:100%;
+}
+
+
+.input{
+     background-color: skyblue;
+      width: 200px;
+      height: 30px;
+      font-size: 18px;
+}
+
+
+#header{
+	border:0px;
+    border-radius:25px;
+    margin:25px;
+    padding:25px;	
+    height:120px;
+   
+}
+
+
+#main{
+    margin-top:-50px;
+    padding:50px;	
+    height:100%px;
+  
+    margin-left:160px;
+    padding:20px;
+    width: 65%
+}
+
+#article{
+    border:2px solid;
+    border-radius:25px;
+    margin:10px;
+    padding:30px;
+    padding-left: 50px;
+    height:100%;
+    width: 45%;
+   
+    background-color:rgba(120, 232, 27, 0.26);
+    float: left;
+}
+
+
+#aside{
+	border:2px solid;
+    border-radius:25px;
+    margin:10px;
+    padding:20px;	
+    
+    width:35%;
+    height: 100%;
+    background-color:rgba(120, 232, 500, 0.86);
+    float: right;
+        
+}
+
+h1{
+    color: #003986;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+

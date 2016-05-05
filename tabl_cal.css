@@ -1,0 +1,51 @@
+html{
+    background-image:  url(images/may1.png);
+    image-resolution: from-image;
+}
+body {
+margin-top: 10px;
+margin-left:150px;
+padding:0px; 
+
+}
+
+tr{
+height:60px;
+border: 1px;
+text-align: center;
+font-size: 20px;
+}
+
+
+#days{
+font-size: 30px;
+color: darkblue;
+}
+
+td{
+    background-color: aqua;    
+    width:150px;    
+    font-size: 30px;    
+}
+.hover:hover {background: #063009; }
+
+#may{
+background-color: hotpink;   
+    font-size: 50px;
+}
+
+input{
+    height: 25px;
+    width: 25px;
+}
+
+#button{
+    width: 160px;
+    height: 28px;    
+    text-align: center;
+    border-radius:50px;
+    background-color: peachpuff;
+    border-color: blue;
+}
+
+
